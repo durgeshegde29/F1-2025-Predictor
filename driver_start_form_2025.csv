@@ -1,0 +1,81 @@
+Round,Session,Driver,Team,FinishPos,Points,Status,FastestLap,AvgLapTime,SoftLaps,MediumLaps,HardLaps
+1,R,NOR,McLaren,1.0,25.0,Finished,82.167,103.428301,0,0,10
+1,R,VER,Red Bull Racing,2.0,18.0,Finished,83.081,103.34115,0,12,0
+1,R,RUS,Mercedes,3.0,15.0,Finished,85.065,103.686339,0,0,10
+1,R,ANT,Mercedes,4.0,12.0,Finished,84.901,104.57937,0,0,11
+1,R,ALB,Williams,5.0,10.0,Finished,84.597,104.672388,0,11,0
+1,R,STR,Aston Martin,6.0,8.0,Finished,85.538,104.730129,0,0,11
+1,R,HUL,Kick Sauber,7.0,6.0,Finished,85.243,104.740166,0,11,0
+1,R,LEC,Ferrari,8.0,4.0,Finished,85.271,103.933528,0,0,13
+1,R,PIA,McLaren,9.0,2.0,Finished,83.242,102.084461,0,0,10
+1,R,HAM,Ferrari,10.0,1.0,Finished,84.218,103.967188,0,0,14
+1,R,GAS,Alpine,11.0,0.0,Finished,85.02,104.889166,0,0,13
+1,R,TSU,Racing Bulls,12.0,0.0,Finished,84.194,104.085698,0,14,0
+1,R,OCO,Haas F1 Team,13.0,0.0,Finished,86.764,103.848698,0,7,0
+1,R,BEA,Haas F1 Team,14.0,0.0,Finished,87.603,103.870075,0,40,0
+1,R,LAW,Red Bull Racing,15.0,0.0,Retired,82.97,101.752523,0,14,0
+1,R,BOR,Kick Sauber,16.0,0.0,Retired,84.192,102.655634,0,40,0
+1,R,ALO,Aston Martin,17.0,0.0,Retired,88.819,98.517379,0,0,0
+1,R,SAI,Williams,18.0,0.0,Retired,,,0,0,0
+1,R,DOO,Alpine,19.0,0.0,Retired,,,0,0,0
+1,R,HAD,Racing Bulls,20.0,0.0,Retired,,,0,0,0
+2,R,PIA,McLaren,1.0,25.0,Finished,95.52,97.411178,0,14,42
+2,R,NOR,McLaren,2.0,18.0,Finished,95.454,97.58525,0,15,41
+2,R,RUS,Mercedes,3.0,15.0,Finished,95.816,97.609339,0,14,42
+2,R,VER,Red Bull Racing,4.0,12.0,Finished,95.488,97.708607,0,13,43
+2,R,OCO,Haas F1 Team,5.0,10.0,Finished,95.74,98.303482,0,11,45
+2,R,ANT,Mercedes,6.0,8.0,Finished,96.046,98.370964,0,12,44
+2,R,ALB,Williams,7.0,6.0,Finished,96.254,98.41691,0,20,36
+2,R,BEA,Haas F1 Team,8.0,4.0,Finished,96.363,98.505875,0,30,26
+2,R,STR,Aston Martin,9.0,2.0,Finished,96.044,98.664821,0,20,36
+2,R,SAI,Williams,10.0,1.0,Finished,96.779,98.775232,0,17,39
+2,R,HAD,Racing Bulls,11.0,0.0,Finished,95.868,98.81966,0,12,44
+2,R,LAW,Red Bull Racing,12.0,0.0,Finished,95.985,98.860232,0,12,44
+2,R,DOO,Alpine,13.0,0.0,Finished,96.424,98.811196,0,11,45
+2,R,BOR,Kick Sauber,14.0,0.0,Lapped,95.874,99.377854,0,1,54
+2,R,HUL,Kick Sauber,15.0,0.0,Lapped,97.275,99.550036,0,20,35
+2,R,TSU,Racing Bulls,16.0,0.0,Lapped,95.871,99.609763,0,20,35
+2,R,ALO,Aston Martin,17.0,0.0,Retired,99.256,111.3935,0,4,0
+2,R,LEC,Ferrari,18.0,0.0,Disqualified,96.157,97.82566,0,15,41
+2,R,HAM,Ferrari,19.0,0.0,Disqualified,95.069,97.86441,0,13,43
+2,R,GAS,Alpine,20.0,0.0,Disqualified,96.425,98.611089,0,10,46
+2,Sprint,HAM,Ferrari,1.0,8.0,Finished,95.399,96.851777,0,19,0
+2,Sprint,PIA,McLaren,2.0,7.0,Finished,95.854,97.118388,0,19,0
+2,Sprint,VER,Red Bull Racing,3.0,6.0,Finished,95.745,97.353611,0,19,0
+2,Sprint,RUS,Mercedes,4.0,5.0,Finished,95.891,97.311722,0,19,0
+2,Sprint,LEC,Ferrari,5.0,4.0,Finished,96.255,97.325666,0,19,0
+2,Sprint,TSU,Racing Bulls,6.0,3.0,Finished,96.388,97.839222,0,19,0
+2,Sprint,ANT,Mercedes,7.0,2.0,Finished,96.311,97.861555,0,19,0
+2,Sprint,NOR,McLaren,8.0,1.0,Finished,96.708,97.816666,0,19,0
+2,Sprint,STR,Aston Martin,9.0,0.0,Finished,96.435,97.932111,0,19,0
+2,Sprint,ALO,Aston Martin,10.0,0.0,Finished,97.058,98.605222,0,19,0
+2,Sprint,ALB,Williams,11.0,0.0,Finished,97.344,98.649944,0,19,0
+2,Sprint,GAS,Alpine,12.0,0.0,Finished,97.481,98.587333,0,19,0
+2,Sprint,HAD,Racing Bulls,13.0,0.0,Finished,97.549,98.689,0,19,0
+2,Sprint,LAW,Red Bull Racing,14.0,0.0,Finished,97.163,98.746166,0,19,0
+2,Sprint,BEA,Haas F1 Team,15.0,0.0,Finished,97.135,98.973888,0,19,0
+2,Sprint,OCO,Haas F1 Team,16.0,0.0,Finished,97.554,98.878722,0,19,0
+2,Sprint,SAI,Williams,17.0,0.0,Finished,95.819,99.262777,0,19,0
+2,Sprint,BOR,Kick Sauber,18.0,0.0,Finished,97.475,99.359277,0,19,0
+2,Sprint,HUL,Kick Sauber,19.0,0.0,Finished,96.529,99.325111,0,19,0
+2,Sprint,DOO,Alpine,20.0,0.0,Finished,97.686,99.630722,0,19,0
+3,R,VER,Red Bull Racing,1.0,25.0,Finished,91.041,92.961943,0,21,32
+3,R,NOR,McLaren,2.0,18.0,Finished,91.116,92.988792,0,21,32
+3,R,PIA,McLaren,3.0,15.0,Finished,91.039,93.002113,0,20,33
+3,R,LEC,Ferrari,4.0,12.0,Finished,91.469,93.26566,0,21,32
+3,R,RUS,Mercedes,5.0,10.0,Finished,91.357,93.289528,0,19,34
+3,R,ANT,Mercedes,6.0,8.0,Finished,90.965,93.314226,0,31,22
+3,R,HAM,Ferrari,7.0,6.0,Finished,91.406,93.512547,0,23,30
+3,R,HAD,Racing Bulls,8.0,4.0,Finished,91.317,93.662584,0,25,28
+3,R,ALB,Williams,9.0,2.0,Finished,91.125,93.723584,0,24,29
+3,R,BEA,Haas F1 Team,10.0,1.0,Finished,92.006,93.990792,0,23,30
+3,R,ALO,Aston Martin,11.0,0.0,Finished,91.77,94.043698,0,24,29
+3,R,TSU,Red Bull Racing,12.0,0.0,Finished,91.871,94.063849,0,23,30
+3,R,GAS,Alpine,13.0,0.0,Finished,91.82,94.134056,0,24,29
+3,R,SAI,Williams,14.0,0.0,Finished,91.106,94.360603,20,33,0
+3,R,DOO,Alpine,15.0,0.0,Finished,92.685,94.496169,15,0,38
+3,R,HUL,Kick Sauber,16.0,0.0,Finished,92.572,94.508301,0,22,31
+3,R,LAW,Racing Bulls,17.0,0.0,Finished,92.043,94.522962,20,33,0
+3,R,OCO,Haas F1 Team,18.0,0.0,Finished,91.967,94.536245,0,21,32
+3,R,BOR,Kick Sauber,19.0,0.0,Finished,92.034,94.544905,0,22,31
+3,R,STR,Aston Martin,20.0,0.0,Lapped,92.052,94.998307,9,22,21
